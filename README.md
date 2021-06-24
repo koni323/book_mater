@@ -7,3 +7,4 @@
 ## 環境
 MAMP/MySQL/PHP
 ## データベース
+データベース名：　book_mater
